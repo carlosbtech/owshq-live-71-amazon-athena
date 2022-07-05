@@ -2,8 +2,8 @@
 ---
 OBS:
 * CSV contains 100.000 rows - 65.3 MB
-* PARQUET contains 20.000.000 rows - 83.8 MB
-* ORC contains 20.000.000 rows - 143.8 MB
+* PARQUET contains 2.000.000 rows - 83.8 MB
+* ORC contains 2.000.000 rows - 143.8 MB
 
 ```sql
 -- count all values from table
